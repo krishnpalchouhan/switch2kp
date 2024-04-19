@@ -46,10 +46,10 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          I&apos;m a dedicated Frontend Tech Lead at Roche, renowned for my prowess in web architecture and development. With expertise in React, Angular, Next.js, and Tailwind CSS, I lead teams to create exceptional digital experiences. Proficient in utilising GitHub Actions for streamlined workflows, I excel in architecting robust solutions that push boundaries. With a strong emphasis on communication and collaboration, I drive projects forward with precision and innovation. Currently open to new opportunities to leverage my skills and expertise in shaping the future of web development.
         </motion.p>
         <motion.a
+          href="https://www.linkedin.com/in/krishnpalsinghchouhan/"
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
